@@ -1,0 +1,38 @@
+.Titulo {
+    background-image: url('images/pattern.jpeg') ;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    text-align: center;
+    
+}
+
+.parte2 h2, .paint h2, .frames h2 {
+    color: white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
+.parte2 h2 {
+    background-color: mediumspringgreen;
+}
+.paint h2{
+    background-color: skyblue;
+}
+.frames h2 {
+    background-color: lightcoral;
+}
+h3 {
+    font-family: Helvetica;
+}
+.parte2 p, span, .frames p, .paint p {
+    font-family: Helvetica;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
+body {
+    padding: 1px;
+}
