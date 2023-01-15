@@ -1,0 +1,108 @@
+body {
+    background-color: antiquewhite;
+
+}
+
+.entrada h1,
+.POWERLIFTING {
+    text-align: center;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    border: 3px solid wheat;
+    border-radius: 50%;
+    width: 100%;
+
+}
+
+
+a[href*=camilo___silvaa] {
+    text-align: center;
+    color: white;
+    width: 200px;
+
+}
+
+div.entrada {
+    background-color: blueviolet;
+    opacity: 70%;
+    width: 500px;
+    height: 400px;
+    margin: 10px auto;
+    padding: 12px;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+video,
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 99%;
+
+
+}
+
+div.video1 {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 1200px;
+    height: 600px;
+}
+
+
+div.prueba1 {
+    background-color: blue;
+    box-sizing: border-box;
+    padding: 0px;
+    width: auto;
+    position: relative;
+    float: right;
+}
+
+.primera {
+    align-items: right;
+}
+
+.entrada p {
+    text-align: center;
+}
+
+.entrada ul {
+    list-style-type: square;
+    list-style-position: inside;
+
+}
+
+ul,
+li {
+    position: relative;
+    right: 10px;
+}
+
+img {
+    position: absolute;
+    bottom: 400px;
+    left: 20px;
+}
+
+div.tfix {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    z-index: 1;
+}
+
+.rectangle {
+    display: inline-block;
+    width: 150px;
+    height: 60px;
+    background-color: brown;
+}
