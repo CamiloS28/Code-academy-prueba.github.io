@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(213, 213, 213);
+    font-family: Arial, sans-serif;
+}
+h1, h2, h3{
+    text-align: center;
+}
+h2{
+    color: rgb(34, 34, 182);
+}
+table {
+    border: 3px solid ;
+    width: 700px;
+    margin: 0 auto;
+}
+thead {
+    background-color:  rgb(34, 34, 182);
+}
+th, td {
+    text-align: center;
+}
+.codigo {
+    background-color: beige;
+    font-family: monospace;
+}
+td{
+    border-top: 1px solid darkblue;
+    border-right: 1px solid darkblue ;
+}
+.nborder {
+    border-right: 0;
+    
+}
