@@ -38,8 +38,11 @@ div.entrada {
 h2 {
     text-align: center;
     box-sizing: border-box;
-    font-family: 'SpaceMono', monospace;
-    src: url('fonts/SpaceMono-Regular.ttf') format(ttf);
+    font-family: 'Camilofuente';
+}
+@font-face {
+    font-family: 'Camilofuente';
+    src: url(fonts/SpaceMono-Regular-webfont.woff) format('woff');
 }
 
 video,
