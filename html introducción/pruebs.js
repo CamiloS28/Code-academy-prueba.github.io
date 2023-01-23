@@ -1,4 +1,4 @@
-function sumar(x, y) {
+/*function sumar(x, y) {
     if (x < y) {
         return x + y;
     } else {
@@ -32,3 +32,21 @@ var gatos =[
         edad: "3 años"
     }
 ]
+//Ejercicio raro
+colores = ["rojo","verde","azul","amarillo","violeta"];
+colores.forEach(function(colores,index) {
+    console.log(`${index}=> ${colores}`);
+});
+*/
+
+//map
+dias = [
+    {nro:1, dia:"LUNES"},
+    {nro:2, dia:"Martes"},
+    {nro:3, dia:"Miercoles"},
+    {nro:4, dia:"Jueves"},
+    {nro:5, dia:"Viernes"}
+]
+dias.map(function(dias){
+console.log(dias.nro +"=>"+ dias.dia);
+});

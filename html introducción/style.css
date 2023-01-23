@@ -20,7 +20,7 @@ a[href*=camilo___silvaa] {
     text-align: center;
     color: white;
     width: 200px;
-
+    cursor: pointer;
 }
 
 div.entrada {
