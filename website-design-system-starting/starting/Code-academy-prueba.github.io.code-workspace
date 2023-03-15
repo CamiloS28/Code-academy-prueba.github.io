@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Code-academy-prueba.github.io",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CodeAcademy"
+	}
+}
